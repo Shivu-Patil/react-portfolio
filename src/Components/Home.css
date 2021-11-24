@@ -1,0 +1,35 @@
+.home_bg{
+    background-image: url(C:/Users/Hp/Desktop/react/my-app/src/Components/img/bg.jpg);
+    background-color: black;
+    background-size: cover;
+}
+li.nav__items{
+    font-size: 18px;
+    padding-bottom: 15px;
+    /* transition: 0.4s ease-in-out; */
+}
+.home__content{
+    padding: 125px 0;
+}
+h1.home__text{
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: rgba(185,139,89, .75)!important;
+}
+h2.home__text{
+    font-size: 54px;
+    line-height: 54px;
+    font-weight: 800;
+    font-family: Montserrat, sans-serif;
+}
+h3.home__text{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: Montserrat, sans-serif;
+    line-height: 40px;
+}
+.logo img{
+    width: 50px;
+    padding-bottom: 30px;
+}
